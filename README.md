@@ -99,6 +99,6 @@ systemctl restart wg-quick@wg0
 
 
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Dicopy%20©-HasilSenip%20AutoScriptVPN%202023.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
+  <a><img src="https://img.shields.io/badge/Dicopy%20©-cobrasc%20AutoScriptVPN%202023.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
     </p>
    </p>
